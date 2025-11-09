@@ -132,8 +132,8 @@ Example Cluster Interpretation:
 
 **Jatin Bandekar**
 📍 India
-💼 Data Analytics | Machine Learning | Business Intelligence
-📧 [Email Me](mailto:jatinbandekar@gmail.com)
+💼 Data Analytics | Machine Learning | Artificial Intelligence | AI Automation
+📧 [Email Me](mailto:bandekarjatin02@gmail.com)
 🌐 [GitHub](https://github.com/jatinAB) 
 ---
 
