@@ -75,7 +75,8 @@ The dashboard reveals actionable insights for targeted marketing, churn reductio
 
 ## 🏠 Dashboard Home     |![Dashboard Overview](assets/dashboard_home.png)      |
 ## 📊 PCA Cluster Plot   | ![PCA Visualization](assets/pca_clusters.png)        |
-## 👥 Customer Profiles  | ![Customer Profiles](assets/customer_profiles.png)   |
+## 👥 Customer Profiles  | ![Customer Profiles](assets/customer_profiles1.png)  |
+## 👥 Customer Profiles  | ![Customer Profiles](assets/customer_profiles2.png)  |
 ## 🤖 Prediction Tool    | ![Prediction Tool](assets/prediction_tool.png)       |
 ## 💹 Cluster Comparison | ![Cluster Comparison](assets/cluster_comparison.png) |
 ## 💡 Insight Generator  | ![Insight Generator](assets/insight_generator.png)   |
